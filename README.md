@@ -10,8 +10,12 @@ With a strong academic and professional background in healthcare, coupled with a
 The data used in this Capstone project was obtained from the Tennessee Drug Overdose Data Dashboard. The state of Tennessee collected this data in conjunction with state-level information and data from the Controlled Substance Monitoring Database (CSMD). The dataset covers a span of ten years and is divided into three categories: overall prescription drug data, fatal overdose data, and non-fatal overdose data, which includes both inpatient and outpatient cases. The data is available in .xlsx format.
 
 ## Technologies 
-The data for this p
-roject was obtained from an .xlsx file sourced from the Tennessee Drug Overdose Data Dashboard. Initially, I viewed the data in Excel, where I performed some cleaning before importing it into Python 3. Next, I converted the cleaned data into a CSV file and imported it into Python. Once the data was in a Jupyter notebook, I analyzed it to ensure I had sufficient information to address the questions I developed for this topic and to evaluate my hypothesis. Finally, after cleaning and analyzing the data, I used Power BI to create visualizations and dashboards.
+The data for this project was obtained from an .xlsx file sourced from the Tennessee Drug Overdose Data Dashboard.
+
+Initially, I viewed the data in Excel, where I performed some cleaning before importing it into Python
+Next, I converted the cleaned data into a CSV file and imported it into Python. Once the data was in a Jupyter notebook, I analyzed it to ensure I had sufficient information to address the questions I developed for this topic and to evaluate my hypothesis. 
+
+Finally, after cleaning and analyzing the data, I used Power BI to create visualizations and dashboards.
 
 ## Obstacles
 There were three main obstacles that I encountered while working with this data.
