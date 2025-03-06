@@ -1,5 +1,4 @@
-# da_13_capstone_project
-Opioid Usage In Tennessee
+### Opioid Usage In Tennessee
 
 ## Motivation
 
